@@ -23,13 +23,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jinfu Fan"
   avatar           : "images/fan.png"
-  bio              : "Northwestern Polytechnical University (NWPU)"
-  location         : "Qingdao, Shangdong, China"
+  bio              : "Tongji University"
+  location         : "Qingdao, Shandong, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=IdfPU1UAAAAJ"
-  email            : "xnyuanliao@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Xinyuan-Liao-4"
+  googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&user=iQtgOnsAAAAJ"
+  email            : "fan_jinfu@163.com"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "XinyuanLiao"
+  github           : "https://github.com/fanjinfucool"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0009-0001-2431-3082"
+  orcid            : #"https://orcid.org/0009-0001-2431-3082"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
