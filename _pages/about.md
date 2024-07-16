@@ -122,8 +122,8 @@ My research interests include
 - Introduction to Machine Learning.
 
 # 🧑‍🎨 Students
-<font color="blue">**Graduate Students**</font>:
-- 2023:Fuyu Qi, Jiayin Song, Jian Feng, Zhiyong Feng
+<font color="blue">**Graduate Students**</font>
+- 2023:Fuyu Qi, Jiayin Song, Jian Feng, Zhiyong Feng, Zeming Jjiang
 - 2024:Jiangnan Li, xiaowen Yan, Keqian Xie
 
  
