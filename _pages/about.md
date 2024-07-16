@@ -104,12 +104,8 @@ My research interests include
 
 
 # 🎖 Selected Projects
-- *2024.01*  PCIM Europe 2024 Conference, Student Travel Grant.
-- *2023.10*  Northwestern Polytechnical University, Second Prize Scholarship.
-- *2023.09*  The 14th Challenge Cup (Growth Challenge), Provincial First Prize.
-- *2022.10*  Northwestern Polytechnical University, First Prize Scholarship.
-- *2021.10*  Ocean University of China, First Prize Scholarship.
-- *2021.10*  Ocean University of China, Model Student of Academic Records.
+- Research and application of key cloud computing security technologies, Shandong Province Higher Education Institutions Youth Innovation and Technology Support Program, *2023KJ365*.
+
 
 # 📖 Patents
 - A graphene-based anti-corrosion coating material for underwater curing construction and preparation method thereof, *CN201710618268.5*. 
