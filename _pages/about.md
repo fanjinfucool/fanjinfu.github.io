@@ -52,9 +52,11 @@ My research interests include
 
 </div>
 </div>
-
-- ``ICLR 2021`` [FastSpeech 2: Fast and High-Quality End-to-End Text to Speech](https://arxiv.org/abs/2006.04558), **Yi Ren**, Chenxu Hu, Xu Tan, et al.
-- <div class="badge">TNNLS 2024</div>
+``2024``
+-
+- <div class="badge">IEEE TNNLS 2024</div> [KMT-PLL: K-Means Cross-Attention Transformer for Partial Label Learning](https://ieeexplore.ieee.org/abstract/document/10384739),**Jinfu Fan**, Linqing Huang, Chaoyu Gong, Yang You , Min Gan, Zhongjie Wan.
+-<div class="badge">IEEE TNNLS 2024</div> Linqing Huang, **Jinfu Fan**, and Alan Wee-Chung Liew. Integration of Multi-kinds Imputation with Covariance Adaptation Based on Evidence Theory. <font color="blue">IEEE Transactions on Neural Networks and Learning Systems</font> (**2022-IF: 10.4**), 2024. [[PDF](https://ieeexplore.ieee.org/document/10571355)]
+-<div class="badge">IEEE GARSS 2024</div> Linqing Huang, **Jinfu Fan**, and Kai Xu. SAR Target Recognition Based on Convolutional Feature Aggregation and Decision Combination. IEEE International Geoscience and Remote Sensing Symposium, 2024.
 
 
 # 🎖 Honors and Awards
