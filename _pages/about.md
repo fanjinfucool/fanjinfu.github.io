@@ -39,6 +39,7 @@ My research interests include
 <div class='paper-box-text' markdown="1">
 
 [KMT-PLL: K-Means Cross-Attention Transformer for Partial Label Learning](https://ieeexplore.ieee.org/abstract/document/10384739/)
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/fanjinfucool/KMT-PLL/tree/master)
 
 **Jinfu Fan**, Linqing Huang, Chaoyu Gong, Yang You , Min Gan, Zhongjie Wan
 
@@ -47,39 +48,6 @@ My research interests include
 - K-means cross-attention
 - Partial label learning (PLL)
 - Vision transformer  
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TechRxiv 2023</div><img src='images/roadmap.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Explainable Neural Dynamics Models for Electric Motor Temperature Estimation](https://doi.org/10.36227/techrxiv.24555889)
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/ms140429/Explainable-Neural-Dynamics-Model)
-
-**Xinyuan Liao**, Shaowei Chen, Yunxiang Long, Shuai Zhao*
-
-**Keywords**
-- System Thermal Dynamics
-- Control-Oriented Modeling
-- Stability Constraints
-- State-Space Models
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Advanced Engineering Informatics 2023</div><img src='images/aei.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Remaining useful life with self-attention assisted physics-informed neural network](https://doi.org/10.1016/j.aei.2023.102195)
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/XinyuanLiao/AttnPINN-for-RUL-Estimation)
-
-**Xinyuan Liao**, Shaowei Chen, Pengfei Wen, Shuai Zhao*
-
-**Keywords**
-- Physics-Informed Neural Networks
-- Attention Mechanism
-- Remaining Useful Life
 
 
 </div>
