@@ -103,7 +103,7 @@ My research interests include
 
 
 
-# 🎖 Honors and Awards
+# 🎖 Selected Projects
 - *2024.01*  PCIM Europe 2024 Conference, Student Travel Grant.
 - *2023.10*  Northwestern Polytechnical University, Second Prize Scholarship.
 - *2023.09*  The 14th Challenge Cup (Growth Challenge), Provincial First Prize.
@@ -111,9 +111,22 @@ My research interests include
 - *2021.10*  Ocean University of China, First Prize Scholarship.
 - *2021.10*  Ocean University of China, Model Student of Academic Records.
 
-# 📖 Educations
-- *2022.06 - 2025.04*, M.S. Northwestern Polytechnical University, Information and Telecommunication Engineering. 
-- *2018.09 - 2022.06*, B.S. Ocean University of China, Computer Science and Technology.
+# 📖 Patents
+- A graphene-based anti-corrosion coating material for underwater curing construction and preparation method thereof, *CN201710618268.5*. 
+- A graphene-based anti-corrosion coating material for construction with water and rust and a preparation method thereof, *CN201710617182.0*.
+- A graphene nanoparticle composite material and preparation method thereof, *CN201710617158.7*.
+- Drag-reducing and anti-corrosion coating for inner wall of central heating pipeline and preparation method thereof, *CN201710701547.8*. 
+
+# 📚 Teachings
+- Deep Learning.
+- Introduction to Machine Learning.
+
+# 🧑‍🎨 Students
+<font color="blue">**Graduate Students**</font>:  \\
+- 2023:Fuyu Qi, Jiayin Song, Jian Feng, Zhiyong Feng
+- 2024:Jiangnan Li, xiaowen Yan, Keqiang Xie
+
+ 
 
 # 🗺️ Visitor Map
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
