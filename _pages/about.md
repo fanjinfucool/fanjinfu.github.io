@@ -56,7 +56,7 @@ My research interests include
 ``2024``
 
 
-- <div class="badge">IEEE TNNLS 2024</div> \\
+- <div class="badge">IEEE TNNLS 2024</div> \quad \quad \quad
 [KMT-PLL: K-Means Cross-Attention Transformer for Partial Label Learning](https://ieeexplore.ieee.org/abstract/document/10384739),**Jinfu Fan**, Linqing Huang, Chaoyu Gong, Yang You , Min Gan, Zhongjie Wan.
 - <div class="badge">IEEE TNNLS 2024</div> 
 Linqing Huang, **Jinfu Fan**, and Alan Wee-Chung Liew. Integration of Multi-kinds Imputation with Covariance Adaptation Based on Evidence Theory. <font color="blue">IEEE Transactions on Neural Networks and Learning Systems</font> (**2022-IF: 10.4**), 2024. [[PDF](https://ieeexplore.ieee.org/document/10571355)]
