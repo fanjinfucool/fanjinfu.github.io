@@ -29,9 +29,10 @@ My research interests include
 
 
 # 🔥 News
-- *2024.01*: &nbsp;🎉🎉 Received the Student Travel Grant from the [PCIM Europe](https://pcim.mesago.com/nuernberg/en/conference.html) 2024 Conference.
-- *2023.12*: &nbsp;🎉🎉 A paper is accepted by the PCIM Europe 2024 Conference. _(EI, Oral)_
-- *2023.09*: &nbsp;🎉🎉 A paper is accepted by the Advanced Engineering Informatics. _(SCI, Q1, IF=8.8)_
+- *2024.07*: &nbsp;🎉🎉 A paper is accepted by the TGRS. _(SCI, Q1, IF=7.5)_
+- *2024.06*: &nbsp;🎉🎉 A paper is accepted by the TNNLS. _(SCI, Q1, IF=10.2)_
+- *2024.01*: &nbsp;🎉🎉 A paper is accepted by the TNNLS. _(SCI, Q1, IF=10.2)_
+
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/PE-GPT.png' alt="sym" width="100%"></div></div>
