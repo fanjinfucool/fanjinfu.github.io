@@ -85,7 +85,7 @@ My research interests include
 - ``IEEE TCSVT`` **Jinfu Fan**, Zhongjie Wang. Partial label learning via GANs with multiclass SVMs and information maximization, <font color="blue">IEEE Transactions on Circuits and Systems for Video Technology</font>,2022. [[PDF](https://ieeexplore.ieee.org/abstract/document/9837047)]
 - ``Information Sciences`` **Jinfu Fan**, Yang Yu, Zhongjie Wang. Addressing label ambiguity imbalance in candidate labels: Measures and disambiguation algorithm, <font color="blue">Information Sciences</font>,2022. [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0020025522008696)]
 - ``EAAI`` **Jinfu Fan**n, Yang Yu, Zhongjie Wang. Partial label learning with competitive learning graph neural network, <font color="blue">Engineering Applications of Artificial Intelligence</font>,2022.[[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0952197622000641)]
-  - ``Applied Sciences`` Yang Yu, **Jinfu Fan**, Yuanqing Xian, Zhongjie Wang. Graph Neural Network for Senior High Student’s Grade Prediction, <font color="blue">Applied Sciences</font>,2022.[[PDF](https://www.mdpi.com/2076-3417/12/8/3881)]
+- ``Applied Sciences`` Yang Yu, **Jinfu Fan**, Yuanqing Xian, Zhongjie Wang. Graph Neural Network for Senior High Student’s Grade Prediction, <font color="blue">Applied Sciences</font>,2022.[[PDF](https://www.mdpi.com/2076-3417/12/8/3881)]
 
 
 
