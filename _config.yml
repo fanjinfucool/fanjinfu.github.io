@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Jinfu Fan"
-  avatar           : "images/fan.jpg"
+  avatar           : "images/fan.png"
   bio              : "Northwestern Polytechnical University (NWPU)"
   location         : "Qingdao, Shangdong, China"
   employer         :
