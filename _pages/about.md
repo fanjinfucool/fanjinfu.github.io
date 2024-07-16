@@ -53,14 +53,11 @@ My research interests include
 </div>
 </div>
 
-``2024``
+<div class="badge">2024</div> 
 
-
-- <div class="badge">IEEE TNNLS 2024</div> </div
-[KMT-PLL: K-Means Cross-Attention Transformer for Partial Label Learning](https://ieeexplore.ieee.org/abstract/document/10384739),**Jinfu Fan**, Linqing Huang, Chaoyu Gong, Yang You , Min Gan, Zhongjie Wan.>
-- <div class="badge">IEEE TNNLS 2024</div> 
-Linqing Huang, **Jinfu Fan**, and Alan Wee-Chung Liew. Integration of Multi-kinds Imputation with Covariance Adaptation Based on Evidence Theory. <font color="blue">IEEE Transactions on Neural Networks and Learning Systems</font> (**2022-IF: 10.4**), 2024. [[PDF](https://ieeexplore.ieee.org/document/10571355)]
-- <div class="badge">IEEE GARSS 2024</div> Linqing Huang, **Jinfu Fan**, and Kai Xu. SAR Target Recognition Based on Convolutional Feature Aggregation and Decision Combination. IEEE International Geoscience and Remote Sensing Symposium, 2024.
+- ``IEEE TNNLS``[KMT-PLL: K-Means Cross-Attention Transformer for Partial Label Learning](https://ieeexplore.ieee.org/abstract/document/10384739),**Jinfu Fan**, Linqing Huang, Chaoyu Gong, Yang You , Min Gan, Zhongjie Wan. <font color="blue">IEEE Transactions on Neural Networks and Learning Systems</font> (**IF: 10.2**)[[PDF](https://ieeexplore.ieee.org/abstract/document/10384739)]
+- ``IEEE TNNLS`` Linqing Huang, **Jinfu Fan**, and Alan Wee-Chung Liew. Integration of Multi-kinds Imputation with Covariance Adaptation Based on Evidence Theory. <font color="blue">IEEE Transactions on Neural Networks and Learning Systems</font> (**IF: 10.2**), 2024. [[PDF](https://ieeexplore.ieee.org/document/10571355)]
+-``IEEE GARSS``Linqing Huang, **Jinfu Fan**, and Kai Xu. SAR Target Recognition Based on Convolutional Feature Aggregation and Decision Combination. <font color="blue">IEEE International Geoscience and Remote Sensing Symposium</font>, 2024.
 
 
 # 🎖 Honors and Awards
