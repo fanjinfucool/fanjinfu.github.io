@@ -4,16 +4,16 @@ main:
     url: "/#about-me"
 
   - title: "News"
-    url: "/news"
+    url: /news/
 
   - title: "Publications"
-    url: "/publications"
+    url: /publications/
 
   - title: "Selected Projects"
-    url: "/selected projects"
+    url: /selected projects/
 
   - title: "Patents"
-    url: "/patents"
+    url: /patents/
 
    - title: "Teachings"
-    url: "/teachings"
+    url: /teachings/
