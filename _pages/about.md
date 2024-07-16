@@ -21,9 +21,9 @@ redirect_from:
 I am an Associate Professor in the College of Computer Science Technology at [Qingdao University (QU)](https://cst.qdu.edu.cn/info/1073/9019.htm). I received the Ph.D. degree from Tongji University, Shanghai, China. I was a visiting scholar in the School of Computing (SoC) at the National University of Singapore (NUS) from January 2022 to December 2022.
 
 My research interests include 
-- **[Physics-Informed Machine Learning](https://scholar.google.com.hk/citations?view_op=search_authors&hl=zh-CN&mauthors=label:physics_informed_ml)**
-- **[Reliability Engineering](https://scholar.google.com.hk/citations?view_op=search_authors&hl=zh-CN&mauthors=label:reliability_engineering)**
-- **[Condition Monitoring](https://scholar.google.com.hk/citations?view_op=search_authors&hl=zh-CN&mauthors=label:condition_monitoring)**
+- **Machine Learning and Data Mining**
+- **Weakly Supervised Multi-label Learning**
+- **Super-Resolution Image Reconstruction**
 
 
 
