@@ -60,7 +60,36 @@ My research interests include
 - ``IEEE TNNLS``[KMT-PLL: K-Means Cross-Attention Transformer for Partial Label Learning](https://ieeexplore.ieee.org/abstract/document/10384739),**Jinfu Fan**, Linqing Huang, Chaoyu Gong, Yang You , Min Gan, Zhongjie Wan. <font color="blue">IEEE Transactions on Neural Networks and Learning Systems</font> (**IF: 10.2**)[[PDF](https://ieeexplore.ieee.org/abstract/document/10384739)]
 - ``IEEE TNNLS`` Linqing Huang, **Jinfu Fan**, and Alan Wee-Chung Liew. Integration of Multi-kinds Imputation with Covariance Adaptation Based on Evidence Theory. <font color="blue">IEEE Transactions on Neural Networks and Learning Systems</font> (**IF: 10.2**), 2024. [[PDF](https://ieeexplore.ieee.org/document/10571355)]
 - ``IEEE GARSS``Linqing Huang, **Jinfu Fan**, and Kai Xu. SAR Target Recognition Based on Convolutional Feature Aggregation and Decision Combination. <font color="blue">IEEE International Geoscience and Remote Sensing Symposium</font>, 2024.
-- ``IEEE TGRS``Linqing Huang, **Jinfu Fan**, and Kai Xu. SAR Target Recognition Based on Convolutional Feature Aggregation and Decision Combination. <font color="blue">IEEE International Geoscience and Remote Sensing Symposium</font>, 2024.
+- ``IEEE TGRS`` Zishu Yao, Guodong Fan, **Jinfu Fan (Corresponding Author)**, Min Gan, C. L. Philip Chen. Spatial-frequency Dual-Domain Feature Fusion Network for Low-Light Remote Sensing Image Enhancement. <font color="blue">Transactions on Geoscience and Remote Sensing</font>, 2024, early access.
+
+
+
+
+<div class="badge">2023</div> //
+
+
+- ``PR`` **Jinfu Fan**, Yang Yu, Linqing Huang, Zhongjie Wang. GraphDPI: Partial label disambiguation by graph representation learning via mutual information maximization, <font color="blue">Pattern Recognition</font>,2023. [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0031320322006136)]
+- ``Applied Intelligence`` **Jinfu Fan**, Zhencun Jiang, Yuanqing Xian, Zhongjie Wang. A multi-class partial hinge loss for partial label learning, <font color="blue">Applied Intelligence</font>,2023. [[PDF](https://link.springer.com/article/10.1007/s10489-023-04954-1)]
+- ``KBS`` Linqing Huang, **Jinfu Fan(Equal Contributions)**, Wangbo Zhao, Yang You. A new multi-source transfer learning method based on two-stage weighted fusion, <font color="blue">Knowledge-Based Systems</font>,2023. [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0950705122013296)]
+- ``AAAI`` Xin Hu, Lingling Zhang, Jun Liu, **Jinfu Fan**, Yang You, Yaqiang Wu. GPTR: gestalt-perception transformer for diagram object detection, <font color="blue">Proceedings of the AAAI Conference on Artificial Intelligence</font>, 2023.[[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/25169)]
+- ``EAAI`` Yuanqing Xian, Yang Yu, Youzao Lian, **Jinfu Fan**, Zhongjie Wang. An EA-based pruning on improved YOLOv3 for rapid copper elbow surface defect detection,<font color="blue">Engineering Applications of Artificial Intelligence</font>, 2023. [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0952197623005961)]
+- ``Alexandria Engineering Journal`` Yu Yang, **Jinfu Fan**, Wang Zhongjie, Zhu Zheng, Xu Yukun. A dynamic ensemble method for residential short-term load forecasting<font color="blue">Alexandria Engineering Journal</font>, 2023.[[PDF](https://www.sciencedirect.com/science/article/pii/S1110016822005087)]
+- ``BSPC`` Zhencun Jiang, Zhengxin Dong, **Jinfu Fan**, Yang Yu, Yuanqing Xian, Zhongjie Wang. Breast TransFG Plus: Transformer-based fine-grained classification model for breast cancer grading in Hematoxylin-Eosin stained pathological images. <font color="blue">Biomedical Signal Processing and Control</font>, 2023.[[PDF](https://www.sciencedirect.com/science/article/abs/pii/S1746809423007176)]
+-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # 🎖 Honors and Awards
