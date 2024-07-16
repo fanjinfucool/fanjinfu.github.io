@@ -105,6 +105,7 @@ My research interests include
 
 # 🎖 Selected Projects
 - Research and application of key cloud computing security technologies, Shandong Province Higher Education Institutions Youth Innovation and Technology Support Program, *2023KJ365*.
+- Preparation of high thermal conductivity expandable graphite microcapsules and flame retardant natural rubber mechanism, National Natural Science Foundation of China, *51806113*.
 
 
 # 📖 Patents
