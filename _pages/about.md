@@ -35,18 +35,18 @@ My research interests include
 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/PE-GPT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/kmax.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[PE-GPT: A Physics-Informed Interactive Large Language Model for Power Converter Modulation Design](https://arxiv.org/ftp/arxiv/papers/2403/2403.14059.pdf)
+[KMT-PLL: K-Means Cross-Attention Transformer for Partial Label Learning](https://ieeexplore.ieee.org/abstract/document/10384739/)
 
-Fanfan Lin, Junhua Liu, Xinze Li, Shuai Zhao, et al., **Xinyuan Liao**
+**Jinfu Fan**, Linqing Huang, Chaoyu Gong, Yang You , Min Gan, Zhongjie Wan
 
 **Keywords**
-- Power Converters
-- Large Language Model
-- Physics-Informed Neural Networks
-- Modulation Strategy 
+- Cluster centers
+- K-means cross-attention
+- Partial label learning (PLL)
+- Vision transformer  
 
 </div>
 </div>
