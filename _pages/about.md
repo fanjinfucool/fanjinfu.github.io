@@ -60,7 +60,7 @@ My research interests include
 - ``IEEE TNNLS``**Jinfu Fan**, Linqing Huang, Chaoyu Gong, Yang You , Min Gan, Zhongjie Wan.KMT-PLL: K-Means Cross-Attention Transformer for Partial Label Learning, <font color="blue">IEEE Transactions on Neural Networks and Learning Systems</font> (**IF: 10.2**)[[PDF](https://ieeexplore.ieee.org/abstract/document/10384739)]
 - ``IEEE TNNLS`` Linqing Huang, **Jinfu Fan**, and Alan Wee-Chung Liew. Integration of Multi-kinds Imputation with Covariance Adaptation Based on Evidence Theory. <font color="blue">IEEE Transactions on Neural Networks and Learning Systems</font> (**IF: 10.2**), 2024. [[PDF](https://ieeexplore.ieee.org/document/10571355)]
 - ``IEEE GARSS``Linqing Huang, **Jinfu Fan**, and Kai Xu. SAR Target Recognition Based on Convolutional Feature Aggregation and Decision Combination. <font color="blue">IEEE International Geoscience and Remote Sensing Symposium</font>, 2024.
-- ``IEEE TGRS`` Zishu Yao, Guodong Fan, **Jinfu Fan (Corresponding Author)**, Min Gan, C. L. Philip Chen. Spatial-frequency Dual-Domain Feature Fusion Network for Low-Light Remote Sensing Image Enhancement. <font color="blue">Transactions on Geoscience and Remote Sensing</font>, 2024, early access.
+- ``IEEE TGRS`` Zishu Yao, Guodong Fan, **Jinfu Fan**, Min Gan, C. L. Philip Chen. Spatial-frequency Dual-Domain Feature Fusion Network for Low-Light Remote Sensing Image Enhancement. <font color="blue">Transactions on Geoscience and Remote Sensing</font>, 2024, early access.
 
 
 
@@ -84,7 +84,7 @@ My research interests include
 
 - ``IEEE TCSVT`` **Jinfu Fan**, Zhongjie Wang. Partial label learning via GANs with multiclass SVMs and information maximization, <font color="blue">IEEE Transactions on Circuits and Systems for Video Technology</font>,2022. [[PDF](https://ieeexplore.ieee.org/abstract/document/9837047)]
 - ``Information Sciences`` **Jinfu Fan**, Yang Yu, Zhongjie Wang. Addressing label ambiguity imbalance in candidate labels: Measures and disambiguation algorithm, <font color="blue">Information Sciences</font>,2022. [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0020025522008696)]
-- ``EAAI`` **Jinfu Fan**n, Yang Yu, Zhongjie Wang. Partial label learning with competitive learning graph neural network, <font color="blue">Engineering Applications of Artificial Intelligence</font>,2022.[[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0952197622000641)]
+- ``EAAI`` **Jinfu Fan**, Yang Yu, Zhongjie Wang. Partial label learning with competitive learning graph neural network, <font color="blue">Engineering Applications of Artificial Intelligence</font>,2022.[[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0952197622000641)]
 - ``Applied Sciences`` Yang Yu, **Jinfu Fan**, Yuanqing Xian, Zhongjie Wang. Graph Neural Network for Senior High Student’s Grade Prediction, <font color="blue">Applied Sciences</font>,2022.[[PDF](https://www.mdpi.com/2076-3417/12/8/3881)]
 
 
@@ -104,6 +104,8 @@ My research interests include
 
 
 # 🎖 Selected Projects
+- Research on weakly supervised multi-labeling algorithm for semantic understanding of images with ambiguous labels, National Natural Science Foundation of China, *62401309*.
+- Research on multi-label learning algorithms for semantic understanding of large-scale data with ambiguous labels, Natural Science Foundation of Qingdao, *24-4-4-zrjj-89-jch*.
 - Research and application of key cloud computing security technologies, Shandong Province Higher Education Institutions Youth Innovation and Technology Support Program, *2023KJ365*.
 - Preparation of high thermal conductivity expandable graphite microcapsules and flame retardant natural rubber mechanism, National Natural Science Foundation of China, *51806113*.
 
