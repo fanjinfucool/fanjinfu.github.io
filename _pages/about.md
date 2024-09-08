@@ -60,7 +60,7 @@ My research interests include
 - ``IEEE TNNLS``**Jinfu Fan**, Linqing Huang, Chaoyu Gong, Yang You , Min Gan, Zhongjie Wan.KMT-PLL: K-Means Cross-Attention Transformer for Partial Label Learning, <font color="blue">IEEE Transactions on Neural Networks and Learning Systems</font> (**IF: 10.2**)[[PDF](https://ieeexplore.ieee.org/abstract/document/10384739)]
 - ``IEEE TNNLS`` Linqing Huang, **Jinfu Fan**, and Alan Wee-Chung Liew. Integration of Multi-kinds Imputation with Covariance Adaptation Based on Evidence Theory. <font color="blue">IEEE Transactions on Neural Networks and Learning Systems</font> (**IF: 10.2**), 2024. [[PDF](https://ieeexplore.ieee.org/document/10571355)]
 - ``IEEE GARSS``Linqing Huang, **Jinfu Fan**, and Kai Xu. SAR Target Recognition Based on Convolutional Feature Aggregation and Decision Combination. <font color="blue">IEEE International Geoscience and Remote Sensing Symposium</font>, 2024.
-- ``IEEE TGRS`` Zishu Yao, Guodong Fan, **Jinfu Fan**, Min Gan, C. L. Philip Chen. Spatial-frequency Dual-Domain Feature Fusion Network for Low-Light Remote Sensing Image Enhancement. <font color="blue">Transactions on Geoscience and Remote Sensing</font>, 2024, early access.
+- ``IEEE TGRS`` Zishu Yao, Guodong Fan, **Jinfu Fan**, Min Gan, C. L. Philip Chen. Spatial-frequency Dual-Domain Feature Fusion Network for Low-Light Remote Sensing Image Enhancement. <font color="blue">IEEE Transactions on Geoscience and Remote Sensing</font>, 2024, early access.
 
 
 
