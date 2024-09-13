@@ -124,7 +124,7 @@ My research interests include
 # 🧑‍🎨 Students
 <font color="blue">**Graduate Students**</font>
 - 2023:Fuyu Qi, Jiayin Song, Jian Feng, Zhiyong Li, Zeming Jiang
-- 2024:Jiangnan Li, Xiaowen Yan, Keqian Xie
+- 2024:Jiangnan Li, Xiaowen Yan, Keqian Xie, Zeng Weihao, Zhong Xiaohui, Zhang Zheng, Zhou Zhipeng
 
  
 
