@@ -56,7 +56,6 @@ My research interests include
 <div class="badge">2025</div> //
 
 - ``ICME 2025`` **Jinfu Fan**, Lijiang Nan, Ruihan Wang, and Linqing Huang. Learning Discriminative Label Embeddings for Multi-Label Learning with Ambiguous Labels.  <font color="blue"> IEEE International Conference on Multimedia and Expo</font>, 2025.
-- ``ICME 2025`` **Jinfu Fan**, Lijiang Nan, Xiaowei Zhang, and Linqing Huang. CLIP-driven Zero-shot Learning with Ambiguous Labels.  <font color="blue"> IEEE International Conference on Multimedia and Expo</font>, 2025.
 - ``ICASSP 2025`` Linqing Huang, **Jinfu Fan**(Corresponding author), Shi-Lin Wang, Gongshen Liu, and Shouxuan Liu. Towards A Distribution Alignment Framework for Incomplete Data Classification.  <font color="blue"> IEEE International Conference on Acoustics, Speech, and Signal Processing</font>, 2025.
 - ``IEEE TSMC-S``Linqing Huang, **Jinfu Fan**(Corresponding author), Shilin Wang, Kai Xu, and Yong Liu. A New Multi-target Domain Adaptation Method Based on Evidence Theory for Distribution Inconsistent Data Classification. <font color="blue">IEEE Transactions on Systems, Man and Cybernetics: Systems</font> (**IF: 8.6**)
 
