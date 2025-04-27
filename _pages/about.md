@@ -55,6 +55,7 @@ My research interests include
 
 <div class="badge">2025</div> //
 
+- ``Neurocomputing``  Mingze Jiang，Linqing Huang, Zhencun Jiang，Qingkai Bu，**Jinfu Fan**(Corresponding author). MDiffSR: Mutual Information and Diffusion Model in Image Super-Resolution.<font color="blue"> Neurocomputing </font>, 2025.
 - ``IEEE TIM``  Linqing Huang, **Jinfu Fan**(Corresponding author), Shilin Wang, and Alan Wee-Chung Liew. Multi-source Multi-target Domain Adaptation Based on Evidence Theory.<font color="blue"> IEEE Transactions on Instrumentation and Measurement </font>, 2025.
 - ``ICME 2025`` **Jinfu Fan**, Jiangnan Li, Ruihan Wang, and Linqing Huang. Learning Discriminative Label Embeddings for Multi-Label Learning with Ambiguous Labels.  <font color="blue"> IEEE International Conference on Multimedia and Expo</font>, 2025.
 - ``ICASSP 2025`` Linqing Huang, **Jinfu Fan**(Corresponding author), Shi-Lin Wang, Gongshen Liu, and Shouxuan Liu. Towards A Distribution Alignment Framework for Incomplete Data Classification.  <font color="blue"> IEEE International Conference on Acoustics, Speech, and Signal Processing</font>, 2025.
