@@ -107,6 +107,7 @@ My research interests include
 
 
 <div class="badge">2021</div> //
+- <span class='paper-badge'>AAAI 2024</span> **Distilling Reliable Knowledge for Instance-dependent Partial Label Learning**<br>*<u>Dong-Dong Wu</u>\*, Deng-Bao Wang\*, Min-Ling Zhang*<br>*Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI), 2023*<br><span class='paper-asset'><a href="https://palm.seu.edu.cn/zhangml/files/AAAI'24d.pdf">PDF</a></span> <span class='paper-asset'><a href="https://github.com/wu-dd/DIRK">Code</a></span> <span class='paper-asset'><a href="https://palm.seu.edu.cn/zhangml/files/Appendix_AAAI'24d.pdf">Appendix</a></span>
 
 
 - ``IEEE TCSVT`` **Jinfu Fan**, Yang Yu, Zhongjie Wang, Jinyi Gu. Partial label learning based on disambiguation correction net with graph representation, <font color="blue">IEEE Transactions on Circuits and Systems for Video Technology</font>,2021. [[PDF](https://ieeexplore.ieee.org/abstract/document/9667361)]
