@@ -110,7 +110,7 @@ My research interests include
 
 
 
-- ``IEEE TCSVT`` *<u>Jinfu Fan</u>\*, Yang Yu, Zhongjie Wang, Jinyi Gu. Partial label learning based on disambiguation correction net with graph representation, <font color="blue">IEEE Transactions on Circuits and Systems for Video Technology</font>,2021. [[PDF](https://ieeexplore.ieee.org/abstract/document/9667361)]
+- ``IEEE TCSVT`` **Jinfu Fan**, Yang Yu, Zhongjie Wang, Jinyi Gu. Partial label learning based on disambiguation correction net with graph representation, <font color="blue">IEEE Transactions on Circuits and Systems for Video Technology</font>,2021. [[PDF](https://ieeexplore.ieee.org/abstract/document/9667361)]
 - ``Sensors`` Yuanqing Xian, Guangjun Liu, **Jinfu Fan**, Yang Yu, Zhongjie Wang. YOT-Net: YOLOv3 combined triplet loss network for copper elbow surface defect detection, <font color="blue">Sensors</font>,2021.[[PDF](https://www.mdpi.com/1424-8220/21/21/7260)]
 - ``Journal of Functional Materials/Gongneng Cailiao`` **Jinfu Fan**, LIU Meng, ZHANG Xiaochen, QU Wenjuan, LI Shaoxiang. Preparation of carboxymethyl chitosan thio derivatives and corrosion inhibition of Q235B carbon steel in oiffield reinjection, <font color="blue">Journal of Functional Materials/Gongneng Cailiao</font>,2018.
 
