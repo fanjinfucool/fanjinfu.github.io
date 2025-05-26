@@ -107,9 +107,9 @@ My research interests include
 
 
 <div class="badge">2021</div> //
+
+
 - <span class='paper-badge'>AAAI 2024</span> **Distilling Reliable Knowledge for Instance-dependent Partial Label Learning**<br>*<u>Dong-Dong Wu</u>\*, Deng-Bao Wang\*, Min-Ling Zhang*<br>*Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI), 2023*<br><span class='paper-asset'><a href="https://palm.seu.edu.cn/zhangml/files/AAAI'24d.pdf">PDF</a></span> <span class='paper-asset'><a href="https://github.com/wu-dd/DIRK">Code</a></span> <span class='paper-asset'><a href="https://palm.seu.edu.cn/zhangml/files/Appendix_AAAI'24d.pdf">Appendix</a></span>
-
-
 - ``IEEE TCSVT`` **Jinfu Fan**, Yang Yu, Zhongjie Wang, Jinyi Gu. Partial label learning based on disambiguation correction net with graph representation, <font color="blue">IEEE Transactions on Circuits and Systems for Video Technology</font>,2021. [[PDF](https://ieeexplore.ieee.org/abstract/document/9667361)]
 - ``Sensors`` Yuanqing Xian, Guangjun Liu, **Jinfu Fan**, Yang Yu, Zhongjie Wang. YOT-Net: YOLOv3 combined triplet loss network for copper elbow surface defect detection, <font color="blue">Sensors</font>,2021.[[PDF](https://www.mdpi.com/1424-8220/21/21/7260)]
 - ``Journal of Functional Materials/Gongneng Cailiao`` **Jinfu Fan**, LIU Meng, ZHANG Xiaochen, QU Wenjuan, LI Shaoxiang. Preparation of carboxymethyl chitosan thio derivatives and corrosion inhibition of Q235B carbon steel in oiffield reinjection, <font color="blue">Journal of Functional Materials/Gongneng Cailiao</font>,2018.
