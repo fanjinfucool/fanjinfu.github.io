@@ -55,9 +55,9 @@ My research interests include
 
 <div class="badge">2025</div> //
 
-
+- ``KBS`` Zhiyong Li, Linqing Huang, Tianhao Gu, Qingkai Bu, Fuyu Qi, **Jinfu Fan**(Corresponding author). Partial Multi-Label Learning via K-means Graph Transformer, <font color="blue">Knowledge-Based Systems</font>,2025.
 - ``ICIP 2025`` Linqing Huang, Jing Zhu, Yumei Hu, Shilin Wang, Gongshen Liu, and **Jinfu Fan**(Corresponding author). A New Multi-source Distributed Transfer Learning Framework. <font color="blue"> IEEE International Conference on Image Processing </font>, 2025.
-- ``MIR`` Linqing Huang, Jinfu Fan, Shilin Wang, Gongshen Liu, and Alan Wee-Chung Liew. Incomplete Data Classification via Distribution Alignment with Evidence Combination. <font color="blue"> Machine Intelligence Research </font> (2023-IF: 6.4), 2025.
+- ``MIR`` Linqing Huang, **Jinfu Fan**, Shilin Wang, Gongshen Liu, and Alan Wee-Chung Liew. Incomplete Data Classification via Distribution Alignment with Evidence Combination. <font color="blue"> Machine Intelligence Research </font> (2023-IF: 6.4), 2025.
 - ``Neurocomputing``  Mingze Jiang，Linqing Huang, Zhencun Jiang，Qingkai Bu，**Jinfu Fan**(Corresponding author). MDiffSR: Mutual Information and Diffusion Model in Image Super-Resolution.<font color="blue"> Neurocomputing </font>, 2025.
 - ``IEEE TIM``  Linqing Huang, **Jinfu Fan**(Corresponding author), Shilin Wang, and Alan Wee-Chung Liew. Multi-source Multi-target Domain Adaptation Based on Evidence Theory.<font color="blue"> IEEE Transactions on Instrumentation and Measurement </font>, 2025.
 - ``ICME 2025`` **Jinfu Fan**, Jiangnan Li, Ruihan Wang, and Linqing Huang. Learning Discriminative Label Embeddings for Multi-Label Learning with Ambiguous Labels.  <font color="blue"> IEEE International Conference on Multimedia and Expo</font>, 2025.
