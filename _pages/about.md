@@ -72,7 +72,7 @@ My research interests include
 
 
 
-- ``IEEE TNNLS``**Jinfu Fan**, Linqing Huang, Chaoyu Gong, Yang You , Min Gan, Zhongjie Wan.KMT-PLL: K-Means Cross-Attention Transformer for Partial Label Learning, <font color="blue">IEEE Transactions on Neural Networks and Learning Systems</font> (**2023-IF: 10.2**), 2024. [[PDF](https://ieeexplore.ieee.org/abstract/document/10384739)]
+- ``IEEE TNNLS``**Jinfu Fan**, Linqing Huang, Chaoyu Gong, Yang You , Min Gan, Zhongjie Wan.KMT-PLL: K-Means Cross-Attention Transformer for Partial Label Learning, <font color="blue">IEEE Transactions on Neural Networks and Learning Systems</font> (**2023-IF: 10.2**), 2024. [[PDF](https://ieeexplore.ieee.org/abstract/document/10384739)][[Codes](https://github.com/fanjinfucool/KMT-PLL/tree/master)]
 - ``IEEE TNNLS`` Linqing Huang, **Jinfu Fan**, and Alan Wee-Chung Liew. Integration of Multi-kinds Imputation with Covariance Adaptation Based on Evidence Theory. <font color="blue">IEEE Transactions on Neural Networks and Learning Systems</font> (**2023-IF: 10.2**), 2024. [[PDF](https://ieeexplore.ieee.org/document/10571355)]
 - ``IEEE GARSS``Linqing Huang, **Jinfu Fan**, and Kai Xu. SAR Target Recognition Based on Convolutional Feature Aggregation and Decision Combination. <font color="blue">IEEE International Geoscience and Remote Sensing Symposium</font>  (**CCF B**), 2024. [[PDF](https://ieeexplore.ieee.org/abstract/document/10641715)]
 - ``IEEE TGRS`` Zishu Yao, Guodong Fan, **Jinfu Fan**, Min Gan, C. L. Philip Chen. Spatial-frequency Dual-Domain Feature Fusion Network for Low-Light Remote Sensing Image Enhancement. <font color="blue">IEEE Transactions on Geoscience and Remote Sensing</font> (**2024-IF: 8.2**), 2024. [[PDF](https://ieeexplore.ieee.org/abstract/document/10613925)]
@@ -100,7 +100,7 @@ My research interests include
 
 - ``IEEE TCSVT`` **Jinfu Fan**, Zhongjie Wang. Partial label learning via GANs with multiclass SVMs and information maximization, <font color="blue">IEEE Transactions on Circuits and Systems for Video Technology</font> (**2024-IF: 11.1**),2022. [[PDF](https://ieeexplore.ieee.org/abstract/document/9837047)]
 - ``Information Sciences`` **Jinfu Fan**, Yang Yu, Zhongjie Wang. Addressing label ambiguity imbalance in candidate labels: Measures and disambiguation algorithm, <font color="blue">Information Sciences</font> (**2022-IF: 8.1**),2022. [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0020025522008696)]
-- ``EAAI`` **Jinfu Fan**, Yang Yu, Zhongjie Wang. Partial label learning with competitive learning graph neural network, <font color="blue">Engineering Applications of Artificial Intelligence</font> (**2024-IF: 8**),2022.[[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0952197622000641)]
+- ``EAAI`` **Jinfu Fan**, Yang Yu, Zhongjie Wang. Partial label learning with competitive learning graph neural network, <font color="blue">Engineering Applications of Artificial Intelligence</font> (**2024-IF: 8**),2022.[[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0952197622000641)][[Codes](https://github.com/fanjinfucool/PL-CGNN)]
 - ``Applied Sciences`` Yang Yu, **Jinfu Fan**, Yuanqing Xian, Zhongjie Wang. Graph Neural Network for Senior High Student’s Grade Prediction, <font color="blue">Applied Sciences</font> (**2024-IF: 2.47**),2022.[[PDF](https://www.mdpi.com/2076-3417/12/8/3881)]
 
 
