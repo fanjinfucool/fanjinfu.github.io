@@ -55,14 +55,14 @@ My research interests include
 
 <div class="badge">2025</div> //
 
-- ``KBS`` Zhiyong Li, Linqing Huang, Tianhao Gu, Qingkai Bu, Fuyu Qi, **Jinfu Fan**(Corresponding author). Partial Multi-Label Learning via K-means Graph Transformer, <font color="blue">Knowledge-Based Systems</font>,2025.
-- ``ICIP 2025`` Linqing Huang, Jing Zhu, Yumei Hu, Shilin Wang, Gongshen Liu, and **Jinfu Fan**(Corresponding author). A New Multi-source Distributed Transfer Learning Framework. <font color="blue"> IEEE International Conference on Image Processing </font>, 2025.
-- ``MIR`` Linqing Huang, **Jinfu Fan**, Shilin Wang, Gongshen Liu, and Alan Wee-Chung Liew. Incomplete Data Classification via Distribution Alignment with Evidence Combination. <font color="blue"> Machine Intelligence Research </font> (2023-IF: 6.4), 2025.
-- ``Neurocomputing``  Mingze Jiang，Linqing Huang, Zhencun Jiang，Qingkai Bu，**Jinfu Fan**(Corresponding author). MDiffSR: Mutual Information and Diffusion Model in Image Super-Resolution.<font color="blue"> Neurocomputing </font>, 2025.
-- ``IEEE TIM``  Linqing Huang, **Jinfu Fan**(Corresponding author), Shilin Wang, and Alan Wee-Chung Liew. Multi-source Multi-target Domain Adaptation Based on Evidence Theory.<font color="blue"> IEEE Transactions on Instrumentation and Measurement </font>, 2025.
-- ``ICME 2025`` **Jinfu Fan**, Jiangnan Li, Ruihan Wang, and Linqing Huang. Learning Discriminative Label Embeddings for Multi-Label Learning with Ambiguous Labels.  <font color="blue"> IEEE International Conference on Multimedia and Expo</font>, 2025.
-- ``ICASSP 2025`` Linqing Huang, **Jinfu Fan**(Corresponding author), Shi-Lin Wang, Gongshen Liu, and Shouxuan Liu. Towards A Distribution Alignment Framework for Incomplete Data Classification.  <font color="blue"> IEEE International Conference on Acoustics, Speech, and Signal Processing</font>, 2025.
-- ``IEEE TSMC-S``Linqing Huang, **Jinfu Fan**(Corresponding author), Shilin Wang, Kai Xu, and Yong Liu. A New Multi-target Domain Adaptation Method Based on Evidence Theory for Distribution Inconsistent Data Classification. <font color="blue">IEEE Transactions on Systems, Man and Cybernetics: Systems</font> (**IF: 8.6**)，2025.
+- ``KBS`` Zhiyong Li, Linqing Huang, Tianhao Gu, Qingkai Bu, Fuyu Qi, **Jinfu Fan**(Corresponding author). Partial Multi-Label Learning via K-means Graph Transformer, <font color="blue">Knowledge-Based Systems</font> (**2024-IF: 7.6**),2025.
+- ``ICIP 2025`` Linqing Huang, Jing Zhu, Yumei Hu, Shilin Wang, Gongshen Liu, and **Jinfu Fan**(Corresponding author). A New Multi-source Distributed Transfer Learning Framework. <font color="blue"> IEEE International Conference on Image Processing </font> (**CCF C**), 2025.
+- ``MIR`` Linqing Huang, **Jinfu Fan**, Shilin Wang, Gongshen Liu, and Alan Wee-Chung Liew. Incomplete Data Classification via Distribution Alignment with Evidence Combination. <font color="blue"> Machine Intelligence Research </font> (**2024-IF: 8.7**), 2025.
+- ``Neurocomputing``  Mingze Jiang，Linqing Huang, Zhencun Jiang，Qingkai Bu，**Jinfu Fan**(Corresponding author). MDiffSR: Mutual Information and Diffusion Model in Image Super-Resolution.<font color="blue"> Neurocomputing </font> (**2024-IF: 6.5**), 2025. [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0925231225010446)][[Codes](https://github.com/jiangmingze111/MDiffSR/tree/master)]
+- ``IEEE TIM``  Linqing Huang, **Jinfu Fan**(Corresponding author), Shilin Wang, and Alan Wee-Chung Liew. Multi-source Multi-target Domain Adaptation Based on Evidence Theory.<font color="blue"> IEEE Transactions on Instrumentation and Measurement </font> (**2024-IF: 5.9**), 2025.
+- ``ICME 2025`` **Jinfu Fan**, Jiangnan Li, Ruihan Wang, and Linqing Huang. Learning Discriminative Label Embeddings for Multi-Label Learning with Ambiguous Labels.  <font color="blue"> IEEE International Conference on Multimedia and Expo</font> (**CCF B**), 2025.
+- ``ICASSP 2025`` Linqing Huang, **Jinfu Fan**(Corresponding author), Shi-Lin Wang, Gongshen Liu, and Shouxuan Liu. Towards A Distribution Alignment Framework for Incomplete Data Classification.  <font color="blue"> IEEE International Conference on Acoustics, Speech, and Signal Processing</font> (**CCF B**), 2025.
+- ``IEEE TSMC-S``Linqing Huang, **Jinfu Fan**(Corresponding author), Shilin Wang, Kai Xu, and Yong Liu. A New Multi-target Domain Adaptation Method Based on Evidence Theory for Distribution Inconsistent Data Classification. <font color="blue">IEEE Transactions on Systems, Man and Cybernetics: Systems</font> ((**2024-IF: 8.7**))，2025.
 
 
 
@@ -72,11 +72,11 @@ My research interests include
 
 
 
-- ``IEEE TNNLS``**Jinfu Fan**, Linqing Huang, Chaoyu Gong, Yang You , Min Gan, Zhongjie Wan.KMT-PLL: K-Means Cross-Attention Transformer for Partial Label Learning, <font color="blue">IEEE Transactions on Neural Networks and Learning Systems</font> (**IF: 10.2**)[[PDF](https://ieeexplore.ieee.org/abstract/document/10384739)]
-- ``IEEE TNNLS`` Linqing Huang, **Jinfu Fan**, and Alan Wee-Chung Liew. Integration of Multi-kinds Imputation with Covariance Adaptation Based on Evidence Theory. <font color="blue">IEEE Transactions on Neural Networks and Learning Systems</font> (**IF: 10.2**), 2024. [[PDF](https://ieeexplore.ieee.org/document/10571355)]
+- ``IEEE TNNLS``**Jinfu Fan**, Linqing Huang, Chaoyu Gong, Yang You , Min Gan, Zhongjie Wan.KMT-PLL: K-Means Cross-Attention Transformer for Partial Label Learning, <font color="blue">IEEE Transactions on Neural Networks and Learning Systems</font> (**2023-IF: 10.2**), 2024. [[PDF](https://ieeexplore.ieee.org/abstract/document/10384739)]
+- ``IEEE TNNLS`` Linqing Huang, **Jinfu Fan**, and Alan Wee-Chung Liew. Integration of Multi-kinds Imputation with Covariance Adaptation Based on Evidence Theory. <font color="blue">IEEE Transactions on Neural Networks and Learning Systems</font> (**2023-IF: 10.2**), 2024. [[PDF](https://ieeexplore.ieee.org/document/10571355)]
 - ``IEEE GARSS``Linqing Huang, **Jinfu Fan**, and Kai Xu. SAR Target Recognition Based on Convolutional Feature Aggregation and Decision Combination. <font color="blue">IEEE International Geoscience and Remote Sensing Symposium</font>, 2024.
 - ``IEEE TGRS`` Zishu Yao, Guodong Fan, **Jinfu Fan**, Min Gan, C. L. Philip Chen. Spatial-frequency Dual-Domain Feature Fusion Network for Low-Light Remote Sensing Image Enhancement. <font color="blue">IEEE Transactions on Geoscience and Remote Sensing</font>, 2024, early access.
-- ``EAAI`` Shuteng Hu, Guodong Fan, Jingchun Zhou, **Jinfu Fan**, Min Gan, C. L. Hybrid network via key feature fusion for image restoration. <font color="blue">Engineering Applications of Artificial Intelligence</font>, 2024.
+- ``EAAI`` Shuteng Hu, Guodong Fan, Jingchun Zhou, **Jinfu Fan**, Min Gan, C. L. Hybrid network via key feature fusion for image restoration. <font color="blue">Engineering Applications of Artificial Intelligence</font> (**2024-IF: 8**), 2024.
 
 
 
@@ -84,13 +84,13 @@ My research interests include
 <div class="badge">2023</div> //
 
 
-- ``PR`` **Jinfu Fan**, Yang Yu, Linqing Huang, Zhongjie Wang. GraphDPI: Partial label disambiguation by graph representation learning via mutual information maximization, <font color="blue">Pattern Recognition</font>,2023. [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0031320322006136)]
-- ``Applied Intelligence`` **Jinfu Fan**, Zhencun Jiang, Yuanqing Xian, Zhongjie Wang. A multi-class partial hinge loss for partial label learning, <font color="blue">Applied Intelligence</font>,2023. [[PDF](https://link.springer.com/article/10.1007/s10489-023-04954-1)]
-- ``KBS`` Linqing Huang, **Jinfu Fan(Equal Contributions)**, Wangbo Zhao, Yang You. A new multi-source transfer learning method based on two-stage weighted fusion, <font color="blue">Knowledge-Based Systems</font>,2023. [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0950705122013296)]
-- ``AAAI`` Xin Hu, Lingling Zhang, Jun Liu, **Jinfu Fan**, Yang You, Yaqiang Wu. GPTR: gestalt-perception transformer for diagram object detection, <font color="blue">Proceedings of the AAAI Conference on Artificial Intelligence</font>, 2023.[[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/25169)]
-- ``EAAI`` Yuanqing Xian, Yang Yu, Youzao Lian, **Jinfu Fan**, Zhongjie Wang. An EA-based pruning on improved YOLOv3 for rapid copper elbow surface defect detection,<font color="blue">Engineering Applications of Artificial Intelligence</font>, 2023. [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0952197623005961)]
-- ``Alexandria Engineering Journal`` Yu Yang, **Jinfu Fan**, Wang Zhongjie, Zhu Zheng, Xu Yukun. A dynamic ensemble method for residential short-term load forecasting, <font color="blue">Alexandria Engineering Journal</font>, 2023.[[PDF](https://www.sciencedirect.com/science/article/pii/S1110016822005087)]
-- ``BSPC`` Zhencun Jiang, Zhengxin Dong, **Jinfu Fan**, Yang Yu, Yuanqing Xian, Zhongjie Wang. Breast TransFG Plus: Transformer-based fine-grained classification model for breast cancer grading in Hematoxylin-Eosin stained pathological images. <font color="blue">Biomedical Signal Processing and Control</font>, 2023.[[PDF](https://www.sciencedirect.com/science/article/abs/pii/S1746809423007176)]
+- ``PR`` **Jinfu Fan**, Yang Yu, Linqing Huang, Zhongjie Wang. GraphDPI: Partial label disambiguation by graph representation learning via mutual information maximization, <font color="blue">Pattern Recognition</font> (**2024-IF: 7.6**),2023. [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0031320322006136)]
+- ``Applied Intelligence`` **Jinfu Fan**, Zhencun Jiang, Yuanqing Xian, Zhongjie Wang. A multi-class partial hinge loss for partial label learning, <font color="blue">Applied Intelligence</font> (**2023-IF: 5.3**),2023. [[PDF](https://link.springer.com/article/10.1007/s10489-023-04954-1)]
+- ``KBS`` Linqing Huang, **Jinfu Fan(Equal Contributions)**, Wangbo Zhao, Yang You. A new multi-source transfer learning method based on two-stage weighted fusion, <font color="blue">Knowledge-Based Systems</font> (**2024-IF: 7.6**),2023. [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0950705122013296)]
+- ``AAAI`` Xin Hu, Lingling Zhang, Jun Liu, **Jinfu Fan**, Yang You, Yaqiang Wu. GPTR: gestalt-perception transformer for diagram object detection, <font color="blue">Proceedings of the AAAI Conference on Artificial Intelligence</font> (**CCF A**), 2023.[[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/25169)]
+- ``EAAI`` Yuanqing Xian, Yang Yu, Youzao Lian, **Jinfu Fan**, Zhongjie Wang. An EA-based pruning on improved YOLOv3 for rapid copper elbow surface defect detection,<font color="blue">Engineering Applications of Artificial Intelligence</font> (**2024-IF: 8**), 2023. [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0952197623005961)]
+- ``Alexandria Engineering Journal`` Yu Yang, **Jinfu Fan**, Wang Zhongjie, Zhu Zheng, Xu Yukun. A dynamic ensemble method for residential short-term load forecasting, <font color="blue">Alexandria Engineering Journal</font> (**2023-IF: 6.8**), 2023.[[PDF](https://www.sciencedirect.com/science/article/pii/S1110016822005087)]
+- ``BSPC`` Zhencun Jiang, Zhengxin Dong, **Jinfu Fan**, Yang Yu, Yuanqing Xian, Zhongjie Wang. Breast TransFG Plus: Transformer-based fine-grained classification model for breast cancer grading in Hematoxylin-Eosin stained pathological images. <font color="blue">Biomedical Signal Processing and Control</font>  (**2023-IF: 5.1**), 2023.[[PDF](https://www.sciencedirect.com/science/article/abs/pii/S1746809423007176)]
 
 
 
@@ -98,10 +98,10 @@ My research interests include
 <div class="badge">2022</div> //
 
 
-- ``IEEE TCSVT`` **Jinfu Fan**, Zhongjie Wang. Partial label learning via GANs with multiclass SVMs and information maximization, <font color="blue">IEEE Transactions on Circuits and Systems for Video Technology</font>,2022. [[PDF](https://ieeexplore.ieee.org/abstract/document/9837047)]
-- ``Information Sciences`` **Jinfu Fan**, Yang Yu, Zhongjie Wang. Addressing label ambiguity imbalance in candidate labels: Measures and disambiguation algorithm, <font color="blue">Information Sciences</font>,2022. [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0020025522008696)]
-- ``EAAI`` **Jinfu Fan**, Yang Yu, Zhongjie Wang. Partial label learning with competitive learning graph neural network, <font color="blue">Engineering Applications of Artificial Intelligence</font>,2022.[[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0952197622000641)]
-- ``Applied Sciences`` Yang Yu, **Jinfu Fan**, Yuanqing Xian, Zhongjie Wang. Graph Neural Network for Senior High Student’s Grade Prediction, <font color="blue">Applied Sciences</font>,2022.[[PDF](https://www.mdpi.com/2076-3417/12/8/3881)]
+- ``IEEE TCSVT`` **Jinfu Fan**, Zhongjie Wang. Partial label learning via GANs with multiclass SVMs and information maximization, <font color="blue">IEEE Transactions on Circuits and Systems for Video Technology</font> (**2024-IF: 11.1**),2022. [[PDF](https://ieeexplore.ieee.org/abstract/document/9837047)]
+- ``Information Sciences`` **Jinfu Fan**, Yang Yu, Zhongjie Wang. Addressing label ambiguity imbalance in candidate labels: Measures and disambiguation algorithm, <font color="blue">Information Sciences</font> (**2022-IF: 8.1**),2022. [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0020025522008696)]
+- ``EAAI`` **Jinfu Fan**, Yang Yu, Zhongjie Wang. Partial label learning with competitive learning graph neural network, <font color="blue">Engineering Applications of Artificial Intelligence</font> (**2024-IF: 8**),2022.[[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0952197622000641)]
+- ``Applied Sciences`` Yang Yu, **Jinfu Fan**, Yuanqing Xian, Zhongjie Wang. Graph Neural Network for Senior High Student’s Grade Prediction, <font color="blue">Applied Sciences</font> (**2024-IF: 2.47**),2022.[[PDF](https://www.mdpi.com/2076-3417/12/8/3881)]
 
 
 
@@ -110,7 +110,7 @@ My research interests include
 
 
 
-- ``IEEE TCSVT`` **Jinfu Fan**, Yang Yu, Zhongjie Wang, Jinyi Gu. Partial label learning based on disambiguation correction net with graph representation, <font color="blue">IEEE Transactions on Circuits and Systems for Video Technology</font>,2021. [[PDF](https://ieeexplore.ieee.org/abstract/document/9667361)]
+- ``IEEE TCSVT`` **Jinfu Fan**, Yang Yu, Zhongjie Wang, Jinyi Gu. Partial label learning based on disambiguation correction net with graph representation, <font color="blue">IEEE Transactions on Circuits and Systems for Video Technology</font> (**2024-IF: 11.1**),2021. [[PDF](https://ieeexplore.ieee.org/abstract/document/9667361)]
 - ``Sensors`` Yuanqing Xian, Guangjun Liu, **Jinfu Fan**, Yang Yu, Zhongjie Wang. YOT-Net: YOLOv3 combined triplet loss network for copper elbow surface defect detection, <font color="blue">Sensors</font>,2021.[[PDF](https://www.mdpi.com/1424-8220/21/21/7260)]
 - ``Journal of Functional Materials/Gongneng Cailiao`` **Jinfu Fan**, LIU Meng, ZHANG Xiaochen, QU Wenjuan, LI Shaoxiang. Preparation of carboxymethyl chitosan thio derivatives and corrosion inhibition of Q235B carbon steel in oiffield reinjection, <font color="blue">Journal of Functional Materials/Gongneng Cailiao</font>,2018.
 
@@ -121,10 +121,12 @@ My research interests include
 
 
 # 🎖 Selected Projects
-- Research on weakly supervised multi-labeling algorithm for semantic understanding of images with ambiguous labels, National Natural Science Foundation of China, *62401309*.
-- Research on multi-label learning algorithms for semantic understanding of large-scale data with ambiguous labels, Natural Science Foundation of Qingdao, *24-4-4-zrjj-89-jch*.
-- Research and application of key cloud computing security technologies, Shandong Province Higher Education Institutions Youth Innovation and Technology Support Program, *2023KJ365*.
-- Preparation of high thermal conductivity expandable graphite microcapsules and flame retardant natural rubber mechanism, National Natural Science Foundation of China, *51806113*.
+- National Natural Science Foundation of China, *62401309*.
+- Shandong Provincial Natural Science Foundation Youth Project, *2R2024QF119*.
+- Natural Science Foundation of Qingdao, *24-4-4-zrjj-89-jch*.
+- Open Project of the Key Laboratory of the Ministry of Education for Computing Internet and Information Security, *2024PY030*.
+- Shandong Province Higher Education Institutions Youth Innovation and Technology Support Program, *2023KJ365*.
+- National Natural Science Foundation of China, *51806113*.
 
 
 # 📖 Patents
@@ -136,6 +138,7 @@ My research interests include
 # 📚 Teachings
 - Deep Learning.
 - Introduction to Machine Learning.
+- Computer Algorithm Design and Analysis.
 
 # 🧑‍🎨 Students
 <font color="blue">**Graduate Students**</font>
