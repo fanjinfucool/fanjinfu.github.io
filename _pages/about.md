@@ -72,7 +72,7 @@ My research interests include
 - ``ICIP 2025`` Linqing Huang, Jing Zhu, Yumei Hu, Shilin Wang, Gongshen Liu, and **Jinfu Fan**(Corresponding author). A New Multi-source Distributed Transfer Learning Framework. <font color="blue"> IEEE International Conference on Image Processing </font> (**CCF C**), 2025.
 - ``MIR`` Linqing Huang, **Jinfu Fan**, Shilin Wang, Gongshen Liu, and Alan Wee-Chung Liew. Incomplete Data Classification via Distribution Alignment with Evidence Combination. <font color="blue"> Machine Intelligence Research </font> (**2024-IF: 8.7**), 2025.
 -  ``NTCI`` JiayinSong, Fuyu Qi, Wenpeng Lu, Linqing Huang, Min Gan, and **Jinfu Fan**(Corresponding author). Partial Label Learning via Meta-learning Bi-Level Optimization. <font color="blue"> 2025 International Conference on New Trends in Computational Intelligence (NTCI) </font> IEEE, 2025:1-5.
--   ``IJAR`` Linqing Huang, **Jinfu Fan**, Gongshen Liu, Shilin Wang. A Robust Multi-Source Transfer Classification Method Based on Belief Functions for Cross-domain Pattern Recognition. <font color="blue"> International Journal of Approximate Reasoning </font> (**2024-IF: 3.07**), 2025.
+-   ``IJAR`` Linqing Huang, **Jinfu Fan**(Corresponding author), Gongshen Liu, Shilin Wang. A Robust Multi-Source Transfer Classification Method Based on Belief Functions for Cross-domain Pattern Recognition. <font color="blue"> International Journal of Approximate Reasoning </font> (**2024-IF: 3.07**), 2025.
 - ``Neurocomputing``  Mingze Jiang，Linqing Huang, Zhencun Jiang，Qingkai Bu，**Jinfu Fan**(Corresponding author). MDiffSR: Mutual Information and Diffusion Model in Image Super-Resolution.<font color="blue"> Neurocomputing </font> (**2024-IF: 6.5**), 2025. [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0925231225010446)][[Codes](https://github.com/jiangmingze111/MDiffSR/tree/master)]
 - ``IEEE TIM``  Linqing Huang, **Jinfu Fan**(Corresponding author), Shilin Wang, and Alan Wee-Chung Liew. Multi-source Multi-target Domain Adaptation Based on Evidence Theory.<font color="blue"> IEEE Transactions on Instrumentation and Measurement </font> (**2024-IF: 5.9**), 2025.  [[PDF](https://ieeexplore.ieee.org/abstract/document/10947560)]
 - ``ICME 2025`` **Jinfu Fan**, Jiangnan Li, Ruihan Wang, and Linqing Huang. Learning Discriminative Label Embeddings for Multi-Label Learning with Ambiguous Labels.  <font color="blue"> IEEE International Conference on Multimedia and Expo</font> (**CCF B**), 2025.
@@ -137,6 +137,7 @@ My research interests include
 
 # 🎖 Selected Projects
 - National Natural Science Foundation of China, *62401309*.
+- The China Postdoctoral Science Foundation , *2025M771692*.
 - Shandong Provincial Natural Science Foundation Youth Project, *2R2024QF119*.
 - Natural Science Foundation of Qingdao, *24-4-4-zrjj-89-jch*.
 - Open Project of the Key Laboratory of the Ministry of Education for Computing Internet and Information Security, *2024PY030*.
