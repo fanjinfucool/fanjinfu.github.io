@@ -67,7 +67,7 @@ My research interests include
 
 <div class="badge">2025</div> //
 
-- ``IEEE TCSVT``Jian Feng, Linqing Huang, JiangNan Li, Kangrui Ren, **Jinfu Fan**(Corresponding author), QingKai Bu, Min Gan, C. L. Philip Chen. Partial Label Learning via Mutual Information Representation Learning, <font color="blue">IEEE Transactions on Circuits and Systems for Video Technology</font> (**2024-IF: 11.1**), 2025.
+- ``IEEE TCSVT``Jian Feng, Linqing Huang, JiangNan Li, Kangrui Ren, **Jinfu Fan**(Corresponding author), QingKai Bu, Min Gan, C. L. Philip Chen. Partial Label Learning via Mutual Information Representation Learning, <font color="blue">IEEE Transactions on Circuits and Systems for Video Technology</font> (**2024-IF: 11.1**), 2025.[[Codes](https://github.com/JianFengda/PLMR.git)]
 - ``KBS`` Zhiyong Li, Linqing Huang, Tianhao Gu, Qingkai Bu, Fuyu Qi, **Jinfu Fan**(Corresponding author). Partial Multi-Label Learning via K-means Graph Transformer, <font color="blue">Knowledge-Based Systems</font> (**2024-IF: 7.6**),2025.
 - ``ICIP 2025`` Linqing Huang, Jing Zhu, Yumei Hu, Shilin Wang, Gongshen Liu, and **Jinfu Fan**(Corresponding author). A New Multi-source Distributed Transfer Learning Framework. <font color="blue"> IEEE International Conference on Image Processing </font> (**CCF C**), 2025.
 - ``MIR`` Linqing Huang, **Jinfu Fan**, Shilin Wang, Gongshen Liu, and Alan Wee-Chung Liew. Incomplete Data Classification via Distribution Alignment with Evidence Combination. <font color="blue"> Machine Intelligence Research </font> (**2024-IF: 8.7**), 2025.
