@@ -60,6 +60,7 @@ My research interests include
 
 
 - ``CVPR 2026`` **Jinfu Fan**, Jiangnan Li, Xiaohui Zhong, Kangrui Ren, Zhencun Jiang, Min Gan, Tianhao Gu, Linqing Huang. Evidential Deep Partial Label Learning to Quantify Disambiguation Uncertainty. <font color="blue"> IEEE/CVF Conference on Computer Vision and Pattern Recognition</font> (**CCF A**), 2026.
+- ``EAAI`` **Jinfu Fan**, Jiangnan Li, Linqing Huang, Min Gan, C. L. Philip Chen. Partial Label Zero Shot Learning with Semantic Mining and Instance-Label Alignment. <font color="blue">Engineering Applications of Artificial Intelligence</font> (**2024-IF: 8**), 2026.
 - ``ICASSP 2026`` **Jinfu Fan**，Jiangnan Li, Xiaowen Yan, Xiaohui Zhong, Wenpeng Lu, Linqing Huang. CLIP-driven Zero-shot Learning with Ambiguous Labels.  <font color="blue"> IEEE International Conference on Acoustics, Speech, and Signal Processing</font> (**CCF B**), 2026.
 - ``ICME 2026`` Jiangnan Li, Linqing Huang, Xiaowen Yan, Min Gan, Wenpeng Lu, , **Jinfu Fan**(Corresponding author). Dynamic Visual-semantic Alignment for Zero-shot Learning with Ambiguous Labels.  <font color="blue"> IEEE International Conference on Multimedia and Expo</font> (**CCF B**), 2026.
 - ``Neurocomputing`` **Jinfu Fan**，Jiangnan Li, Wenpeng Lu, Linqing Huang. Partial Multi-Label Learning via Transformer to Discover Discriminative Label Embeddings.<font color="blue"> Neurocomputing </font> (**2024-IF: 6.5**), 2026. 
