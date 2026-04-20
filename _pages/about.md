@@ -1,4 +1,4 @@
----
+<img width="1344" height="1452" alt="image" src="https://github.com/user-attachments/assets/622a4f17-b980-46d5-bed4-0c459e2229ae" />---
 permalink: /
 title: ""
 excerpt: ""
@@ -63,7 +63,7 @@ My research interests include
 - ``EAAI`` **Jinfu Fan**, Jiangnan Li, Linqing Huang, Min Gan, C. L. Philip Chen. Partial Label Zero Shot Learning with Semantic Mining and Instance-Label Alignment. <font color="blue">Engineering Applications of Artificial Intelligence</font> (**2024-IF: 8**), 2026.
 - ``ICASSP 2026`` **Jinfu Fan**，Jiangnan Li, Xiaowen Yan, Xiaohui Zhong, Wenpeng Lu, Linqing Huang. CLIP-driven Zero-shot Learning with Ambiguous Labels.  <font color="blue"> IEEE International Conference on Acoustics, Speech, and Signal Processing</font> (**CCF B**), 2026.
 - ``ICME 2026`` Jiangnan Li, Linqing Huang, Xiaowen Yan, Min Gan, Wenpeng Lu, , **Jinfu Fan**(Corresponding author). Dynamic Visual-semantic Alignment for Zero-shot Learning with Ambiguous Labels.  <font color="blue"> IEEE International Conference on Multimedia and Expo</font> (**CCF B**), 2026.
-- ``Neurocomputing`` **Jinfu Fan**，Jiangnan Li, Wenpeng Lu, Linqing Huang. Partial Multi-Label Learning via Transformer to Discover Discriminative Label Embeddings.<font color="blue"> Neurocomputing </font> (**2024-IF: 6.5**), 2026. [[PDF](https://github.com/fanjinfucool/fanjinfu.github.io/blob/main/assets/PML-TF.pdf)]
+- ``Neurocomputing`` **Jinfu Fan**，Jiangnan Li, Wenpeng Lu, Linqing Huang. Partial Multi-Label Learning via Transformer to Discover Discriminative Label Embeddings.<font color="blue"> Neurocomputing </font> (**2024-IF: 6.5**), 2026. <a href="https://github.com/fanjinfucool/fanjinfu.github.io/blob/main/assets/PML-TF.pdf" download> [PDF] </a>
 - ``PAKDD 2026`` Fuyu Qi, Linqing Huang, Jian Feng, Zhiyong Li, Qingkai Bu, Wenpeng Lu,  **Jinfu Fan**(Corresponding author). Nonlinear Characteristic-Driven Partial Multi-Label Learning. <font color="blue"> Pacific-Asia Conference on knowledge discovery and data mining. Cham: Springer International Publishing</font> (**CCF C**), 2026.[[Codes](https://github.com/qifuyv/PML-LAG.git)]
 - ``PAKDD 2026``  **Jinfu Fan**，Fuyu Qi, Linqing Huang, Jian Feng, Zhiyong Li, Qingkai Bu, Wenpeng Lu.  Partial Multi-Label Learning via Label Anchor Graph. <font color="blue"> Pacific-Asia Conference on knowledge discovery and data mining. Cham: Springer International Publishing</font> (**CCF C**), 2026.[[Codes](https://github.com/qifuyv/NLPML.gi)]
 
