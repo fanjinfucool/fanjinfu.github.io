@@ -76,9 +76,6 @@ My research interests include
 - ``IEEE SMC 2026`` Lai Jiang, **Jinfu Fan**, Xingchun Wang, Xinwei Zhu, Linqing Huang. Differential Evolution-Optimized Evidence Fusion Across Multi-color Spaces for Remote Sensing Image Forgery Detection. <font color="blue"> 2026 IEEE International Conference on Systems, Man, and Cybernetics (SMC)</font> (**CCF C**), 2026.
 - ``IEEE SMC 2026`` Xinwei Zhu, **Jinfu Fan**, Zining Lu, Xingchun Wang, Lai Jiang, Linqing Huang. A Distributed Evidence Fusion Guided Multi-source Domain Adaptation Framework. <font color="blue"> 2026 IEEE International Conference on Systems, Man, and Cybernetics (SMC)</font> (**CCF C**), 2026.
 - ``IEEE SMC 2026`` Zining Lu, Gongshen Liu, **Jinfu Fan**, Xinwei Zhu, Lai Jiang, Linqing Huang. Federated Evidential C-Means Clustering Algorithm. <font color="blue"> 2026 IEEE International Conference on Systems, Man, and Cybernetics (SMC)</font> (**CCF C**), 2026.
--    Fuyu Qi, Linqing Huang, Jian Feng, Zhiyong Li, Qingkai Bu, Wenpeng Lu,  **Jinfu Fan**(Corresponding author). Nonlinear Characteristic-Driven Partial Multi-Label Learning. <font color="blue"> Pacific-Asia Conference on knowledge discovery and data mining. Cham: Springer International Publishing</font> (**CCF C**), 2026
-
-
 - ``GAIIS`` Kangrui Ren, Zhencun Jiang, **Jinfu Fan**, Zhongjie Wang. Learning Multi-Agent Cooperation Via Future Observations Guided Communication Graph. <font color="blue"> 2026 International Conference on Generative Artificial Intelligence and Information Security</font>, 2026.
 
 
